@@ -1,0 +1,4 @@
+starlette==0.14.2
+uvicorn==0.14.0
+motor==2.4.0
+databases==0.4.3
